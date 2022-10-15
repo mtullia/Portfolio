@@ -72,6 +72,11 @@ nav {
   display: inline;
 }
 
+.project-description {
+  text-align: left;
+  position: relative;
+}
+
 details {
   cursor: pointer;
 }
