@@ -184,6 +184,11 @@ text-align: left;
   height: auto;
 }
 
+#resume-download {
+  color: blue;
+  text-decoration: underline;
+}
+
 @media only screen and (max-width: 600px) {
   .about-me-container {
     flex-direction: column;
